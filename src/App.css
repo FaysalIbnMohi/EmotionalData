@@ -1,0 +1,6 @@
+.react-tel-input .form-control {
+    width: 100% !important;
+    border-radius: var(--rounded-btn, 0.5rem) !important;
+    line-height: 1.5rem !important;
+    height: 3rem !important;
+}
